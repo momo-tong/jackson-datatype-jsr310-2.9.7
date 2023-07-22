@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: tatu
+Build-Jdk: 1.8.0_162
+Specification-Title: Jackson datatype: JSR310
+Specification-Version: 2.9.7
+Specification-Vendor: FasterXML
+Implementation-Title: Jackson datatype: JSR310
+Implementation-Version: 2.9.7
+Implementation-Vendor-Id: com.fasterxml.jackson.datatype
+Implementation-Vendor: FasterXML
+Implementation-Build-Date: 2018-09-19 03:03:33+0000
+X-Compile-Source-JDK: 1.8
+X-Compile-Target-JDK: 1.8
+
